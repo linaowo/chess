@@ -1,0 +1,21 @@
+.white, .black{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.black:hover{
+    cursor: pointer;
+    border: 1px solid red;
+}
+.white:hover{
+    cursor: pointer;
+    border: 1px solid red;
+}
+.black{
+    background-color: black;
+    float: left;
+}
+.white{
+    background-color: white;
+}
